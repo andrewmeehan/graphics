@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\Lab04\main.cpp(46,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\Lab04\main.cpp(70,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\Lab04\main.cpp(71,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  maths_funcs.cpp
+  skybox.cpp
+  texture.cpp
+  stb_image.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 613 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab04.vcxproj -> C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\build\executables\Release\Lab 04.exe

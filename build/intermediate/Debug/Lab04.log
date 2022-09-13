@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\Lab04\main.cpp(47,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\Lab04\main.cpp(80,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\Lab04\main.cpp(81,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\Lab04\main.cpp(336,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\Lab04\main.cpp(338,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\Lab04\main.cpp(618,33): warning C4018: '<': signed/unsigned mismatch
+  Lab04.vcxproj -> C:\Users\Andrew\Documents\College\4th-Year\Graphics Project\build\executables\Debug\Lab 04.exe
